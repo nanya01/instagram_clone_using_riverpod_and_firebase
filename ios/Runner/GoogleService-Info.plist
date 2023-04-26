@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>131513901586-gmp7fg80br8di3kd5adnntcgaceqcd8d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.131513901586-gmp7fg80br8di3kd5adnntcgaceqcd8d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBp7BtexLIOPXGsUd4G3P1ZRAFiDcHoudw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>131513901586</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.instagramCloneWithRiverpod</string>
+	<key>PROJECT_ID</key>
+	<string>instagram-clone-riverpod-6607f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instagram-clone-riverpod-6607f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:131513901586:ios:6d8edc5fe44d45f7beeecb</string>
+</dict>
+</plist>
